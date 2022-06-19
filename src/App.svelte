@@ -36,8 +36,8 @@
 
 
 <nav id=navbar>
-  <button><a href="/#/" id="home">Home</a></button>
-  <button><a href="/#/contributing" id="contributing">Contributing</a></button>
+  <a href="/#/" id="home">Home</a>
+  <a href="/#/contributing" id="contributing">Contributing</a>
 </nav>
 
 
